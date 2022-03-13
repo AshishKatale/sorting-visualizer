@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/sorting-visualizer/static/css/main.954ddbd6.chunk.css",
-    "main.js": "/sorting-visualizer/static/js/main.f6b87953.chunk.js",
+    "main.css": "/sorting-visualizer/static/css/main.4d5c2599.chunk.css",
+    "main.js": "/sorting-visualizer/static/js/main.78a27f02.chunk.js",
     "runtime-main.js": "/sorting-visualizer/static/js/runtime-main.bb4d8f03.js",
     "static/js/2.86da0ddb.chunk.js": "/sorting-visualizer/static/js/2.86da0ddb.chunk.js",
     "static/js/3.667ab870.chunk.js": "/sorting-visualizer/static/js/3.667ab870.chunk.js",
     "index.html": "/sorting-visualizer/index.html",
-    "static/js/2.86da0ddb.chunk.js.LICENSE.txt": "/sorting-visualizer/static/js/2.86da0ddb.chunk.js.LICENSE.txt"
+    "static/js/2.86da0ddb.chunk.js.LICENSE.txt": "/sorting-visualizer/static/js/2.86da0ddb.chunk.js.LICENSE.txt",
+    "static/media/home.css": "/sorting-visualizer/static/media/bg.ef7d1ed9.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.bb4d8f03.js",
     "static/js/2.86da0ddb.chunk.js",
-    "static/css/main.954ddbd6.chunk.css",
-    "static/js/main.f6b87953.chunk.js"
+    "static/css/main.4d5c2599.chunk.css",
+    "static/js/main.78a27f02.chunk.js"
   ]
 }
